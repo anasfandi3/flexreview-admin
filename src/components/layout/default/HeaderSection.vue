@@ -34,7 +34,6 @@
 import {
   Search,
   Bell,
-  Plus,
   Menu,
   HelpCircle
 } from 'lucide-vue-next'
